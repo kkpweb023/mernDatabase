@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/kkpweb023/mernDatabase.git)"
+    "url": "git+https://github.com/kkpweb023/mernDatabase.git"
   },
   "keywords": [
     "kaushal",
@@ -16,6 +16,10 @@
   ],
   "author": "kaushal",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkpweb023/mernDatabase/issues"
+  },
+  "homepage": "https://github.com/kkpweb023/mernDatabase#readme",
   "dependencies": {
     "cloudinary": "^2.5.1",
     "cors": "^2.8.5",
